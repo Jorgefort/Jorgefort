@@ -1,1 +1,1 @@
-![Demo]("cool cat.webp")
+![Demo]("./cool cat.webp")
