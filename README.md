@@ -1,1 +1,1 @@
-![Demo](./sigma.gif)
+![Demo](./toosigma.gif)
