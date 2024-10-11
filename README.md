@@ -1,1 +1,1 @@
-![Demo](./"cool cat.webp")
+![Demo](./sigma.gif)
